@@ -1,0 +1,57 @@
+body{
+    background-color: #BB1641;
+}
+.achtergrond{
+    width: 100vw;
+    height: 100vh;
+    background-color: #BB1641;
+    margin-top: -5px;
+    padding-top: 80px;
+}
+.logo{
+    width: 500px;
+    height: 500px;
+    margin-right: 225px;
+    margin-left: 225px;
+    margin-top: -40px;
+    background-image: url("../foto's/logo2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.container{
+    background-color: white;
+    height: 1200px;
+    width: 815px;
+    margin-top: -80px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 50px;
+}
+.line{
+    border-color: black;
+    position: absolute;
+    width: 575px;
+    margin-top: 625px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.icon1{
+    width: 500px;
+    height: 500px;
+    background-image: url("../foto's/smartbeker.png");
+    background-size: cover;
+    margin-left: 150px;
+    margin-right: 150px;
+    position: absolute;
+    margin-top: 10px;
+}
+.icon2{
+    width: 500px;
+    height: 500px;
+    background-image: url("../foto's/smartbox.png");
+    background-size: cover;
+    margin-left: 150px;
+    margin-right: 150px;
+    position: absolute;
+    margin-top: 650px;
+}

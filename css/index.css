@@ -1,0 +1,21 @@
+body{
+    background-color: #BB1641;
+}
+.achtergrond{
+    width: 100vw;
+    height: 100vh;
+    background-color: #BB1641;
+    margin-top: -5px;
+    padding-top: 80px;
+    color: #8C1536;
+}
+.logo{
+    width: 600px;
+    height: 500px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 550px;
+    background-image: url("../foto's/logo1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
